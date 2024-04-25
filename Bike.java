@@ -6,6 +6,9 @@
 * @since   2024-04-18
 */
 
+package vehicles;
+import vehicles.Vehicle;
+
 /**
 * This is the Bike class.
 */
